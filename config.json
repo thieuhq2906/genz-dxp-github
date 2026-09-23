@@ -1,0 +1,378 @@
+{
+  "meta": {
+    "title": "Thư mời Sếp Điệp · GenZ DXP",
+    "description": "Một lời mời đặc biệt từ anh em GenZ DXP đến Sếp Điệp, 18:30 ngày 24/09 tại Gành Hào 2.",
+    "language": "vi"
+  },
+  "text": {
+    "header": {
+      "span": [
+        "GENZ DXP"
+      ],
+      "edition": [
+        "LỜI MỜI · 24/09"
+      ]
+    },
+    "intro": {
+      "span": [
+        "24/09"
+      ],
+      "span 2": [
+        "GỬI ĐẾN"
+      ],
+      "strong": [
+        "Sếp Điệp"
+      ],
+      "i": [
+        "từ anh em GenZ DXP ♡"
+      ],
+      "seal": [
+        "✳"
+      ],
+      "eyebrow": [
+        "THƯ ĐÃ ĐẾN · 01 / 03"
+      ],
+      "span 3": [
+        "Sếp Điệp ơi,"
+      ],
+      "em": [
+        "có thư nè!"
+      ],
+      "p": [
+        "Một cuộc trò chuyện rất nghiêm túc về việc… tối mai đi chơi cùng anh em. Sếp mở ra xem nhé?"
+      ],
+      "open-letter": [
+        "Mở thư "
+      ],
+      "span 4": [
+        "↗"
+      ],
+      "quiet": [
+        "GenZ DXP gửi bằng cả tấm lòng và một chiếc mic đã sẵn sàng."
+      ]
+    },
+    "chat-scene": {
+      "eyebrow": [
+        "CHUYỆN BÊN LỀ · 02 / 03"
+      ],
+      "chat-title": [
+        "Cả nhóm đã"
+      ],
+      "em": [
+        "lên kế hoạch."
+      ],
+      "p": [
+        "Chốt được lịch của Sếp rồi. Giờ đến phần chọn món!"
+      ],
+      "skip-chat": [
+        "Xem thư mời ngay ↗"
+      ],
+      "span": [
+        "9:41"
+      ],
+      "span 2": [
+        "●●● ▰"
+      ],
+      "back-to-intro": [
+        "‹"
+      ],
+      "group-icon": [
+        "DXP"
+      ],
+      "strong": [
+        "GenZ Chuyển đổi số"
+      ],
+      "small": [
+        "14 thành viên"
+      ],
+      "head-menu": [
+        "☰"
+      ],
+      "date-pill": [
+        "Tuần trước"
+      ],
+      "span 3": [
+        "☺"
+      ],
+      "composer-field": [
+        "Tin nhắn"
+      ],
+      "span 4": [
+        "☷"
+      ],
+      "span 5": [
+        "▣"
+      ],
+      "aside-number": [
+        "02"
+      ],
+      "span 6": [
+        "/03"
+      ],
+      "p 2": [
+        "Một câu chốt lịch, cả nhóm rôm rả chọn món và tìm địa điểm."
+      ],
+      "replay-chat": [
+        "↺"
+      ],
+      "pause-chat": [
+        "Ⅱ"
+      ],
+      "chat-status": [
+        "Đang phát đoạn chat"
+      ],
+      "to-invite": [
+        "Xem thiệp mời "
+      ],
+      "span 7": [
+        "↗"
+      ]
+    },
+    "invite": {
+      "eyebrow": [
+        "LỜI MỜI CHÍNH THỨC · 03 / 03"
+      ],
+      "invite-title": [
+        "Một buổi tối"
+      ],
+      "em": [
+        "để vui cùng nhau."
+      ],
+      "p": [
+        "Anh em GenZ DXP trân trọng mời Sếp Điệp đến ăn ngon, tám chuyện và hát karaoke. Không agenda, không báo cáo. Chỉ cần Sếp có mặt là anh em vui rồi ạ. ♡"
+      ],
+      "span": [
+        "PHÒNG I3 (HIỀN) · ĐÃ SẴN SÀNG"
+      ],
+      "detail-head": [
+        "THÔNG TIN BUỔI HẸN "
+      ],
+      "span 2": [
+        "✳"
+      ],
+      "span 3": [
+        "01 / NGÀY"
+      ],
+      "strong": [
+        "24/09"
+      ],
+      "span 4": [
+        "02 / GIỜ"
+      ],
+      "strong 2": [
+        "18:30"
+      ],
+      "span 5": [
+        "03 / ĐỊA ĐIỂM"
+      ],
+      "strong 3": [
+        "Gành Hào 2"
+      ],
+      "small": [
+        "09 Hạ Long · Phòng I3 (Hiền)"
+      ],
+      "detail-foot": [
+        "ĂN NGON ✳ TÁM CHUYỆN ✳ KARAOKE"
+      ],
+      "rsvp-overline": [
+        "MỘT CÂU HỎI NHỎ…"
+      ],
+      "h3": [
+        "Sếp Điệp có",
+        "đi cùng không?"
+      ],
+      "nudge": [
+        "Anh em đang đợi câu trả lời của Sếp đó ạ."
+      ],
+      "yes-bubble": [
+        "Á, em biết Sếp rất đáng yêu mà! 🥹❤️"
+      ],
+      "yes": [
+        "CÓ, SẾP ĐI! "
+      ],
+      "span 6": [
+        "♥"
+      ],
+      "no": [
+        "KHÔNG 🙈"
+      ],
+      "eyebrow 2": [
+        "KỶ NIỆM CÙNG ANH ĐIỆP"
+      ],
+      "birthday-title": [
+        "Những khoảnh khắc thật vui."
+      ],
+      "p 2": [
+        "Từ buổi mừng sinh nhật anh Điệp, đến buổi hẹn tiếp theo cùng GenZ DXP. ♡"
+      ],
+      "figcaption": [
+        "Mừng sinh nhật anh Điệp 🎂"
+      ],
+      "figcaption 2": [
+        "Thêm một tấm ảnh, thêm một kỷ niệm ♡"
+      ]
+    },
+    "success": {
+      "span": [
+        "✓"
+      ],
+      "eyebrow": [
+        "ĐÃ ĐƯỢC SẾP ĐIỆP DUYỆT"
+      ],
+      "success-title": [
+        "Chốt kèo"
+      ],
+      "em": [
+        "rồi nha Sếp!"
+      ],
+      "p": [
+        "Hẹn Sếp lúc ",
+        "tại ",
+        "."
+      ],
+      "strong": [
+        "18:30 ngày 24/09"
+      ],
+      "strong 2": [
+        "Gành Hào 2 · 09 Hạ Long · Phòng I3 (Hiền)"
+      ],
+      "success-note": [
+        "🍻 Bia đang chờ   🦐 Đồ ăn đã sẵn   🎤 Mic dành cho Sếp"
+      ],
+      "back-to-invite": [
+        "Xem lại thư mời ↗"
+      ]
+    },
+    "footer": {
+      "footer": [
+        "GENZ DXP ",
+        " HẸN SẾP ĐIỆP TỐI 24/09"
+      ],
+      "span": [
+        "✳"
+      ]
+    }
+  },
+  "accessibility": {
+    "back-to-intro": "Quay lại",
+    "replay-chat": "Phát lại đoạn chat",
+    "pause-chat": "Tạm dừng đoạn chat"
+  },
+  "images": {
+    "dxp-logo-0": {
+      "src": "assets/dxp-logo.svg",
+      "alt": "DXP — Digital Transformation Project"
+    },
+    "dxp-logo-1": {
+      "src": "assets/dxp-logo.svg",
+      "alt": "DXP"
+    },
+    "room-2": {
+      "src": "assets/room.svg",
+      "alt": "Phòng ăn đã chuẩn bị bàn dài"
+    },
+    "view-3": {
+      "src": "assets/view.svg",
+      "alt": "Bàn ăn nhìn ra biển"
+    },
+    "birthday-1-4": {
+      "src": "assets/birthday-1.svg",
+      "alt": "Mọi người cùng anh Điệp chụp ảnh bên bánh sinh nhật và hoa"
+    },
+    "birthday-2-5": {
+      "src": "assets/birthday-2.svg",
+      "alt": "Một khoảnh khắc khác trong buổi mừng sinh nhật anh Điệp"
+    }
+  },
+  "chat": {
+    "messages": [
+      {
+        "name": "Hiền",
+        "initials": "H",
+        "text": "AE ơii, chốt được lịch của sếp Điệp r nekkk"
+      },
+      {
+        "name": "Thiều",
+        "initials": "T",
+        "me": true,
+        "text": "Sếp tốc độ vạy??"
+      },
+      {
+        "name": "Phúc",
+        "initials": "P",
+        "text": "Vừa chạy vừa xếp hàng mà =)))))"
+      },
+      {
+        "name": "Huy",
+        "initials": "H",
+        "text": "Đi thoi ae"
+      },
+      {
+        "name": "Thủy",
+        "initials": "T",
+        "text": "Nổ cái địa điểm ikkk"
+      },
+      {
+        "name": "Hiền",
+        "initials": "H",
+        "text": "Toàn quyền Đông Dương rùi =))))"
+      },
+      {
+        "name": "Định",
+        "initials": "Đ",
+        "text": "Cho em sushi đi!"
+      },
+      {
+        "name": "Tuyết Hà",
+        "initials": "TH",
+        "text": "Hoi ko ăn đồ sống đâuuu"
+      },
+      {
+        "name": "Hiếu",
+        "initials": "H",
+        "text": "Vậy ăn dê không ae =)))"
+      },
+      {
+        "name": "Huy",
+        "initials": "H",
+        "text": "Hem ăn thịt dê âuu"
+      },
+      {
+        "name": "Hải Hà",
+        "initials": "HH",
+        "text": "Gành Hào ikk =))))"
+      },
+      {
+        "name": "Thảo",
+        "initials": "T",
+        "text": "Lập poll thôi emm"
+      },
+      {
+        "name": "Huyền",
+        "initials": "H",
+        "text": "Dui quá đi dớiii"
+      },
+      {
+        "name": "An",
+        "initials": "A",
+        "text": "Lâu lém rồi ko gặp A Điệp"
+      }
+    ],
+    "playing": "Đang phát đoạn chat",
+    "finished": "Đã phát xong",
+    "paused": "Đã tạm dừng",
+    "resumeLabel": "Tiếp tục đoạn chat",
+    "pauseLabel": "Tạm dừng đoạn chat",
+    "pauseIcon": "Ⅱ",
+    "resumeIcon": "▶"
+  },
+  "rsvp": {
+    "taunts": [
+      "Ơ kìa Sếp 😳",
+      "Sếp suy nghĩ lại đi mà 🥺",
+      "Anh em GenZ đang nhìn Sếp đó 👀",
+      "Nút này không bấm được đâu Sếp ơi =)))",
+      "Sếp đừng cố nữa... định mệnh đã chọn nút CÓ rồi 😌❤️"
+    ]
+  }
+}
